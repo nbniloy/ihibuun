@@ -1,0 +1,16 @@
+hr{
+    border: 1px solid black;
+    
+}
+
+a{
+
+   display: inline;
+   text-decoration: none;
+   cursor: grab;
+}
+
+.module{
+    line-clamp: 3;
+    overflow: hidden;
+}

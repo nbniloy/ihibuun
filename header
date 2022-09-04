@@ -1,0 +1,41 @@
+ <header class="pt-lg-5 bg-light">
+        
+            <!-- Title starts Here -->
+            <nav class="navbar navbar-expand-lg fixed-top container d-flex justify-content-between">
+
+              <div>
+                <a class="navbar-brand text-primary" href="#"><span class="bg-primary text-white px-3 py-1 border rounded">Daily</span> Star</a>
+              </div>
+            <!-- title ends here -->
+
+               <div class="d-sm-none">
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="true" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+
+              <!-- news blog starts here -->
+              <div class="collapse navbar-collapse bg-primary px-5 text-white border rounded" id="navbarNav">
+                <div class="collapse navbar-collapse bg-primary px-5 " id="navbarNav">
+                <ul class="navbar-nav ">
+                  <li class="nav-item">
+                    <a class="nav-link active px-3 text-white" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item me-5 px-3">
+                    <a class="nav-link text-white" href="#">Features</a>
+                  </li>
+                </ul>
+
+                <img class = 'rounded-circle h-75' src="42.jpg" alt="" width="30" height="24" class="d-inline-block align-text-top">
+                
+            </div>
+        </div>
+                  
+                 
+              
+              <!-- news blog ends here -->
+
+            </nav>
+
+            <li class="list"></li>
+    
+    </header>
